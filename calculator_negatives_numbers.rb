@@ -1,0 +1,1 @@
+# Escreva um programa que leia uma lista de números e calcule a soma dos números negativos.
